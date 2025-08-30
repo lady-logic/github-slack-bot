@@ -1,6 +1,10 @@
 # GitHub Slack Bot
 
-> AI-powered Slack bot that seamlessly integrates GitHub repositories with intelligent chat functionality
+<!-- Logo -->
+<p align="center">
+  <img src="icon.png" alt="GitHub Slack Bot Logo" width="200"/>
+</p>
+AI-powered Slack bot that seamlessly integrates GitHub repositories with intelligent chat functionality
 
 ## Features
 
@@ -8,6 +12,10 @@
 - **AI-Powered Analysis** - Get intelligent insights about your development patterns  
 - **Real-time Chat** - Ask questions about your codebase in natural language
 - **Repository Analytics** - Analyze your programming languages and project trends
+
+<p align="center">
+  <img src="Screenshot1.png" alt="GitHub Slack Bot Logo"/>
+</p>
 
 ## Demo Commands
 
